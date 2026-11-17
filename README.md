@@ -1,5 +1,5 @@
 # 💫 About Me:
-IT & Web, Mobile & Cloud Computing tudent/developer based in Portugal Passionate about Python automation, Linux servers, Docker, and self-hosting.<br><br>- 🔭 Currently working on: Python Discord bots, web scraping pipelines, and self-hosted infrastructure (Docker, Caddy, Cloudflare Tunnels, Home Assistant).<br>- 💻 Tech Stack: Python • SQLite • Linux (Ubuntu) • Docker • HTML/CSS/JS • Git • Java • LLM • IAs<br>- 🌐 Website: https://andydias.pt
+IT & Web, Mobile & Cloud Computing student/developer based in Portugal Passionate about Python automation, Linux servers, Docker, and self-hosting.<br><br>- 🔭 Currently working on: Python Discord bots, web scraping pipelines, and self-hosted infrastructure (Docker, Caddy, Cloudflare Tunnels, Home Assistant).<br>- 💻 Tech Stack: Python • SQLite • Linux (Ubuntu) • Docker • HTML/CSS/JS • Git • Java • LLM • IAs<br>- 🌐 Website: https://andydias.pt
 
 
 ## 🌐 Socials:
